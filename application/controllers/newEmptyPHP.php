@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 class newEmptyPHP{
-    
+     function __construct() {
+       //Brijesh Constructor ;
+    }
 }
 
