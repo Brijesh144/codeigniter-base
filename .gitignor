@@ -1,4 +1,0 @@
-.DB_store
-temp/
-test/*.txt
-!test/master.txt
